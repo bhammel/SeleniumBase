@@ -5,10 +5,10 @@ A simple console application containing the boiler-plate code needed for a basic
 * **Selenium.WebDriver** (>= 3.6.0)
 * **Selenium.Support** (>= 3.6.0)
 
-Dependencies can be installed via npm or Manage NuGet Packages... in Visual Studio.
+Dependencies can be installed via ``npm`` or ``Manage NuGet Packages...`` in Visual Studio.
 
 # Other dependencies
-* **.NETFramework**, Version=v4.6.1
+* **.NET Framework** (>= 4.6.1)
 
 # Notes
 After building the solution, you must copy ``chromedriver.exe`` into the ``bin\Debug\`` folder of the ``SeleniumBase`` project.
